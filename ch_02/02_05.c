@@ -2,7 +2,8 @@
 int main(void)
 {
     int n, n2, n3;
-    
+
+    /* 该程序有一个语义错误 */ 
     n = 5;
     n2 = n * n;
     n3 = n2 * n2;
